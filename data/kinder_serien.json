@@ -1,0 +1,148 @@
+{
+    "series": [
+        {
+            "name": "Cosmo & Wanda  Wenn Elfen helfen",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/9X4tJwLarF0?si=84Ms-3uJmOqzDOLa",
+            "description": "Die Serie folgt dem Jungen Timmy, der durch seine Elfenpaten Cosmo und Wanda spannende Abenteuer erlebt."
+        },
+        {
+            "name": "Die Pinguine aus Madagascar",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/ua14geU9uPM?si=0WmJarlvgkCHyr2E",
+            "description": "Die Pinguine Skipper, Kowalski, Rico und Private erleben witzige Abenteuer im New Yorker Zoo."
+        },
+        {
+            "name": "Der kleine Prinz",
+            "category": "Animation",
+            "youtube_link": "https://www.youtube.com/embed/01WMtGZGjwQ?si=n-3sbiEL6qYxKFww",
+            "description": "Eine Neuinterpretation des Klassikers, in der der kleine Prinz auf fremde Planeten reist und spannende Begegnungen hat."
+        },
+        {
+            "name": "Bob der Baumeister",
+            "category": "Animation",
+            "youtube_link": "https://www.youtube.com/embed/mIcwJQj1cTg?si=Hs--CmUgFQ_Sv3Wt",
+            "description": "Bob und seine Freunde bauen zusammen verschiedene Projekte und lösen dabei Probleme."
+        },
+        {
+            "name": "Mr. Bean (Cartoon)",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/zPQ1vYlgJZQ?si=ng4DqE1GKZF9SuFb",
+            "description": "Mr. Bean gerät immer wieder in lustige und chaotische Situationen in dieser animierten Version der Kultfigur."
+        },
+        {
+            "name": "Wickie und die starken Männer",
+            "category": "Animation",
+            "youtube_link": "https://www.youtube.com/embed/agtJPqigKCw?si=WM59UJJACgUq3-l_",
+            "description": "Der schlaue Wickie hilft den Wikingern, ihre Abenteuer durch kluge Ideen zu meistern."
+        },
+        {
+            "name": "Roary the Racing Car",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/o5Rlb6jGFaA?si=SDOjW-gVaae7_GVC",
+            "description": "Roary, ein lebhaftes Rennauto, erlebt spannende und rasante Abenteuer auf der Rennstrecke."
+        },
+        {
+            "name": "Kleine Einsteins",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/XPMzSYzKImM?si=jtLQq_60hd70UiJD",
+            "description": "Vier Kinder reisen in ihrer Rakete und erleben Abenteuer, bei denen sie Musik und Kunst entdecken."
+        },
+        {
+            "name": "Coco – Der neugierige Affe",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/yXQoOpOb0zU?si=TTUte6zHvJRl976G",
+            "description": "Der neugierige Affe Coco erlebt zusammen mit seinem Besitzer, dem Mann mit dem gelben Hut, lustige Abenteuer."
+        },
+        {
+            "name": "Shaun das Schaf",
+            "category": "Animation",
+            "youtube_link": "https://www.youtube.com/embed/7kmz0c0p6A0?si=QCaXJmvXBIOOvP_R",
+            "description": "Shaun und seine Schafherde sorgen auf dem Bauernhof immer wieder für lustiges Chaos."
+        },
+        {
+            "name": "Coop gegen Kat",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/yHSZTrTY-P4?si=7aShawErnnWLgWkm",
+            "description": "Der Junge Coop steht ständig im Kampf mit einem Alien-Kater, der bei ihm zu Hause lebt."
+        },
+        {
+            "name": "Kim Possible",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/GIgLqN_rAXU?si=bqoagdYwEvIt_nf0",
+            "description": "Kim Possible ist eine Schülerin und Spionin, die gegen Schurken auf der ganzen Welt kämpft."
+        },
+        {
+            "name": "Yakari",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/jb9Nx-awCAk?si=QMbWS1hE8yw0JwNO",
+            "description": "Der kleine Indianerjunge Yakari hat die Fähigkeit, mit Tieren zu sprechen, und erlebt spannende Abenteuer."
+        },
+        {
+            "name": "In einem Land vor unserer Zeit",
+            "category": "Animation",
+            "youtube_link": "https://www.youtube.com/embed/4zzxw2WEsDk?si=fSrQLIaVCUhDQry9",
+            "description": "Dinosaurierfreunde erleben Abenteuer auf ihrer Reise durch das prähistorische Land."
+        },
+        {
+            "name": "Laura Stern",
+            "category": "Animation",
+            "youtube_link": "https://www.youtube.com/embed/0sYya8-ljx8?si=ytBBQFNlEA3S1Wy6",
+            "description": "Laura entdeckt einen magischen Stern und erlebt damit zauberhafte Abenteuer."
+        },
+        {
+            "name": "Kleiner Roter Traktor",
+            "category": "Animation",
+            "youtube_link": "https://www.youtube.com/embed/qatDhFu7XfA?si=4DWHOzkPXnyzJkI0",
+            "description": "Der kleine rote Traktor und sein Besitzer Jan erleben Abenteuer auf dem Land."
+        },
+        {
+            "name": "Jake und die Nimmerland Piraten",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/xhJFtUskYhA?si=rgyOJRuWXDpqtWqo",
+            "description": "Jake und seine Freunde kämpfen gegen Captain Hook und erleben Piratenabenteuer im Nimmerland."
+        },
+        {
+            "name": "Trotro",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/LJPhzlkMGss?si=tOjtEkABZUAcw98t",
+            "description": "Trotro, ein kleiner Esel, entdeckt neugierig die Welt um sich herum."
+        },
+        {
+            "name": "Feuerwehrmann Sam",
+            "category": "Animation",
+            "youtube_link": "https://www.youtube.com/embed/TBwEhHjzxG8?si=A768acJWcvXI2fE8",
+            "description": "Der mutige Feuerwehrmann Sam rettet in seiner Stadt Pontypandy immer wieder Leben."
+        },
+        {
+            "name": "Weihnachtsmann und Co. KG",
+            "category": "Animation",
+            "youtube_link": "https://www.youtube.com/embed/wGyit3DD0FM?si=_CLVrRK4b5yz9f7t",
+            "description": "Der Weihnachtsmann und seine Helfer bereiten Geschenke vor und sorgen für Weihnachtszauber."
+        },
+        {
+            "name": "Caillou",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/zv4M4IAoalY?si=tRa4cbcKI5mdd8eI",
+            "description": "Caillou, ein neugieriger Junge, erlebt alltägliche Abenteuer und lernt wichtige Lektionen."
+        },
+        {
+            "name": "DuckTales",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/jQ31UAKI3wU?si=DSOIyB2ixkBg3yUJ",
+            "description": "Dagobert Duck und seine Neffen erleben actionreiche Abenteuer auf der ganzen Welt."
+        },
+        {
+            "name": "Tom and Jerry",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/drpKa2BTGmE?si=Vm8BRTYhyDM_3vAP",
+            "description": "Die klassische Katz-und-Maus-Geschichte zwischen Tom und Jerry voller witziger Verfolgungsjagden."
+        },
+        {
+            "name": "Octonauts",
+            "category": "Cartoon",
+            "youtube_link": "https://www.youtube.com/embed/mR_Ui_3Iz2o?si=ETCgLKTRXFUmkrn2",
+            "description": "Eine Gruppe mutiger Meeresforscher hilft Tieren in Not und erkundet die Unterwasserwelt."
+        }
+    ]
+}

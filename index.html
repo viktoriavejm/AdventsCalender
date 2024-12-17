@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adventkalender</title>
+    <link rel="icon" href="./imgs/tree.png">
+    <script>
+        let timestamp = new Date().getTime();
+        let link = document.createElement('link');
+        link.rel = 'stylesheet';
+        let script = document.createElement('script');
+        script.defer = true;
+
+        // relative path to your files
+        link.href  = './index.css'   + `?${timestamp}`;
+        script.src = './index.js'   + `?${timestamp}`;
+
+        document.head.appendChild(link);
+        document.head.appendChild(script);
+    </script>
+</head>
+<body>
+    <div id="home_header">
+        <img onclick="showFavs()" id="home_fav" src="./imgs/heart.png" alt="">
+        <h1>Your personal advent calendar</h1>
+
+        <div  id="date">
+            <p id="dateee"></p>
+        </div>
+
+        <div id="playPauseMusik">
+            <img class="imgMusik" onclick="pauseMusik()" src="./imgs/pause.png" alt="">
+            <img class="imgMusik" onclick="playMusik()" src="./imgs/play.png" alt="">
+        </div>
+
+    </div>
+
+  
+    <section id="home_content">
+
+    </section>
+
+    <section id="home_content_info">
+
+    </section>
+
+    <section id="favorites"></section>
+
+
+    <div class="snowflake">
+        ❅
+        </div>
+        <div class="snowflake">
+        ❅
+        </div>
+        <div class="snowflake">
+        ❆
+        </div>
+        <div class="snowflake">
+        ❄
+        </div>
+        <div class="snowflake">
+        ❅
+        </div>
+        <div class="snowflake">
+        ❆
+        </div>
+        <div class="snowflake">
+        ❄
+        </div>
+        <div class="snowflake">
+        ❅
+        </div>
+        <div class="snowflake">
+        ❆
+        </div>
+        <div class="snowflake">
+        ❄
+        </div>
+</body>
+</html>
